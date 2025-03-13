@@ -241,7 +241,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## **🔗 Links**
-- 📌 **GitHub**: [https://github.com/TirumalaKrishnaMohanG](https://github.com/TirumalaKrishnaMohanG)
+- 📌 **GitHub**: [https://github.com/TirumalaKrishnaMohanG/ssl-analyzer]([https://github.com/TirumalaKrishnaMohanG](https://github.com/TirumalaKrishnaMohanG/ssl-analyzer))
 - 📌 **PyPI**: [https://pypi.org/project/ssl-analyzer/](https://pypi.org/project/ssl-analyzer/) 
 - 📌 **Author**: Tirumala Krishna Mohan Gudimalla
 
